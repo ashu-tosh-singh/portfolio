@@ -18,9 +18,9 @@ import hr from "../assets/curve-hr.svg";
 export default function Skills() {
   const settings = {
     autoplay: true,
-    autoplaySpeed: 600,
+    autoplaySpeed: 1000,
     infinite: true,
-    slidesToShow: 4,
+    slidesToShow: 3,
     slidesToScroll: 1,
   };
 
@@ -29,7 +29,7 @@ export default function Skills() {
       <h1 className="text-2xl font-bold">Skills</h1>
       <p className="font-light text-gray-400">Here are some of my skills</p>
 
-      <div className="mt-4">
+      <div className="mt-4 ">
         <Slider {...settings}>
           <SkillCard name="java" img={java} />
           <SkillCard name="html" img={html} />
