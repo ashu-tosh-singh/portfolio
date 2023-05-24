@@ -25,7 +25,7 @@ export default function Skills() {
   };
 
   return (
-    <div id="skills" className="mt-4 text-white">
+    <div id="skills" className="mt-4 text-white  rounded-xl shadow-md ">
       <h1 className="text-2xl font-bold">Skills</h1>
       <p className="font-light text-gray-400">Here are some of my skills</p>
 
