@@ -5,7 +5,7 @@ import hr from "../assets/curve-hr.svg";
 export default function Projects() {
   return (
     <div id="honors" className="mt-4 text-white">
-      <h1 className="text-2xl font-bold">aaaaaaaa</h1>
+      <h1 className="text-2xl font-bold">Projects & Works</h1>
       <p className="font-light text-gray-400">
         Here are some of my projects and works
       </p>
