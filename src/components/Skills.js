@@ -17,15 +17,15 @@ import hr from "../assets/curve-hr.svg";
 
 export default function Skills() {
   const settings = {
-    dots: true,
     autoplay: true,
+    autoplaySpeed: 600,
     infinite: true,
-    slidesToShow: 6,
+    slidesToShow: 4,
     slidesToScroll: 1,
   };
 
   return (
-    <div id="skills" className="mt-4 text-white  rounded-xl shadow-md ">
+    <div id="skills" className=" mt-4 text-white">
       <h1 className="text-2xl font-bold">Skills</h1>
       <p className="font-light text-gray-400">Here are some of my skills</p>
 
