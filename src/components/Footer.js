@@ -16,7 +16,7 @@ export default function Footer() {
         </li>
         <li>
           <a href="#honors" className="hover:underline">
-            Honor & Awards
+            Projects & Works
           </a>
         </li>
         <li>
