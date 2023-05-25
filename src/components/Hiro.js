@@ -25,8 +25,8 @@ export default function Hiro() {
             <h1 className="text-2xl font-bold">Ashutosh Singh</h1>
             <p class="text-xl font-bold text-gray-300">MERN Developer</p>
             <p className="text-md font-light text-gray-400">
-              An enthusiastic and committed web developer with a focus on Java
-              and JavaScript. I have good knowledge of developing websites
+              An enthusiastic and committed MERN stack developer with a focus on
+              JavaScript and Java. I have good knowledge of developing websites
               utilising the MERN stack and aim to produce outstanding user
               interfaces and solid apps.
               <p className="text-md font-bold">
