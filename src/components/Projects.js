@@ -24,6 +24,12 @@ export default function Projects() {
           GitLink="https://github.com/ashu-tosh-singh/weather-app"
           desc="The project's user-friendly interface was designed with the help of contemporary web development tools like HTML, CSS, and JavaScript. Weather API has been featched from RapidAPI."
         />
+        <ProjectCard
+          name="Backend with CRUD operations"
+          issuedLink=""
+          GitLink="https://github.com/ashu-tosh-singh/mycontacts-backend-with-CRUD-operations"
+          desc="Developed a backend application with CRUD operations for a contacts management system.(This project is not hosted, so the WEBSITE LINK won't work. You'll be redirected to the portfolio page upon clicking the link)."
+        />
       </div>
       <img src={hr} className="w-full mt-8 md:h-2" alt="hr" />
     </div>
