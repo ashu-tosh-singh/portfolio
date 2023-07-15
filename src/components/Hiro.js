@@ -23,9 +23,9 @@ export default function Hiro() {
           <div className="flex flex-col w-full mt-8">
             <h1 className="text-xl text-gray-400">Hi, I'm</h1>
             <h1 className="text-2xl font-bold">Ashutosh Singh</h1>
-            <p class="text-xl font-bold text-gray-300">MERN Developer</p>
+            <p class="text-xl font-bold text-gray-300">Front-end Developer</p>
             <p className="text-md font-light text-gray-400">
-              An enthusiastic and committed MERN stack developer with a focus on
+              An enthusiastic and committed Front-end developer with a focus on
               JavaScript and Java. I have good knowledge of developing websites
               utilising the MERN stack and aim to produce outstanding user
               interfaces and solid apps.
